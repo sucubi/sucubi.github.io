@@ -1,0 +1,59 @@
+
+html{
+    
+    
+    
+}
+
+
+body{
+    
+    font-family: 'Kavivanar';
+    font-size:20px;
+    line-height: 25px;
+    text-align: center;
+    
+        
+}
+h1{
+    
+    font-family: 'Gloria+Hallelujah';
+    font-size: 24px;
+    line-height: 30px;
+    text-align: center;
+
+}
+.content{
+    background-color:  #CCCCCC;
+    background-size: 60 px;
+    width: 700px;
+    padding-top: 25px;
+    margin: auto;
+    border-radius: 25px;
+    box-shadow: 10px 10px 10px black;
+    background-position: center;
+    margin-top:inherit;
+   
+}
+
+
+P{  
+    font-family: 'Courgette', cursive;
+    font-size: 25px;
+    color:#006699;
+}
+
+.menu {
+  display: flex;
+  justify-content: space-between;
+    background-color:   #996699;
+   margin: auto;
+    width: 700px;
+    padding-bottom: 5px;
+    padding-top: 5px;
+    padding-left: 10px;
+    padding-right: 10px;
+    color:#006699;
+    
+}
+
